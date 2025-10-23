@@ -15,7 +15,7 @@ export const plugin: PluginDefinition = {
         secondary: "#686868",
         info: "#6897bb",
         success: "#d0d0ff",
-        notice: "#61a151",
+        notice: "#6a8759",
         warning: "#cc7832",
         danger: "#cc7832",
       },
